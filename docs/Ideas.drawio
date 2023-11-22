@@ -1,9 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T09:22:19.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="21.3.7" etag="4a0LpV0kgPY6CblM5iSV" type="github">
-  <diagram name="Page-1" id="ko_dqjG6y3X7jD0QXsYj">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-11-22T09:41:17.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rpoAiSD_ykm1g4xX_JVD" version="21.3.7" type="github" pages="2">
+  <diagram name="Requirements" id="ko_dqjG6y3X7jD0QXsYj">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wZpOrlDpsTzWn8cMbFMg-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="260" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="dR0pPeRyYSRoEiQ4zv5r-2" value="General&lt;br&gt;Description" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dR0pPeRyYSRoEiQ4zv5r-3" value="User Story 1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dR0pPeRyYSRoEiQ4zv5r-4" value="User Story 2" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wZpOrlDpsTzWn8cMbFMg-1" value="Domain Description" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wZpOrlDpsTzWn8cMbFMg-2" value="CQ 1.1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZpOrlDpsTzWn8cMbFMg-3" value="CQ 1.2" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZpOrlDpsTzWn8cMbFMg-5" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="410" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZpOrlDpsTzWn8cMbFMg-10" value="CQ 2.1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="500" y="510" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZpOrlDpsTzWn8cMbFMg-11" value="CQ 2.2" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="500" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZpOrlDpsTzWn8cMbFMg-12" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="600" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZpOrlDpsTzWn8cMbFMg-13" value="Ontology Scope" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wZpOrlDpsTzWn8cMbFMg-14" value="Users" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wZpOrlDpsTzWn8cMbFMg-16" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="650" width="50" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="K2Drq02MRzKbQZ_3sAx_">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="wzDXBrva2t4RyQ2eDLOE-0" />
+        <mxCell id="wzDXBrva2t4RyQ2eDLOE-1" parent="wzDXBrva2t4RyQ2eDLOE-0" />
+        <mxCell id="wzDXBrva2t4RyQ2eDLOE-2" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wzDXBrva2t4RyQ2eDLOE-1">
+          <mxGeometry x="430" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzDXBrva2t4RyQ2eDLOE-3" value="Description" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="wzDXBrva2t4RyQ2eDLOE-1">
+          <mxGeometry x="120" y="190" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wzDXBrva2t4RyQ2eDLOE-4" value="User Story 1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="wzDXBrva2t4RyQ2eDLOE-1">
+          <mxGeometry x="120" y="310" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wzDXBrva2t4RyQ2eDLOE-5" value="User Story 1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="wzDXBrva2t4RyQ2eDLOE-1">
+          <mxGeometry x="220" y="310" width="80" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
