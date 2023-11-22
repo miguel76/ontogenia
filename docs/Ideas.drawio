@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T09:45:23.051Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="t7kpnv5ROYNj_OKBl9Y4" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-22T09:53:30.599Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="z8tLt8R4hirSWD-Fvlnr" version="21.3.7" type="github" pages="3">
   <diagram name="Requirements" id="ko_dqjG6y3X7jD0QXsYj">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C994iGuoO-94H4k_FdDV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="560" height="480" as="geometry" />
+        </mxCell>
         <mxCell id="wZpOrlDpsTzWn8cMbFMg-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="280" width="260" height="430" as="geometry" />
         </mxCell>
@@ -46,11 +49,40 @@
         <mxCell id="wZpOrlDpsTzWn8cMbFMg-16" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="650" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C994iGuoO-94H4k_FdDV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="260" width="560" height="480" as="geometry" />
-        </mxCell>
         <mxCell id="C994iGuoO-94H4k_FdDV-2" value="Ontology Requirements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ontology" id="fTAXvr9bBFszcWvD81mH">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="kqTv1T57_9Nnb-ffsGUs-0" />
+        <mxCell id="kqTv1T57_9Nnb-ffsGUs-1" parent="kqTv1T57_9Nnb-ffsGUs-0" />
+        <mxCell id="kqTv1T57_9Nnb-ffsGUs-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="kqTv1T57_9Nnb-ffsGUs-1">
+          <mxGeometry x="100" y="260" width="560" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="kqTv1T57_9Nnb-ffsGUs-3" value="Formalisation" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="kqTv1T57_9Nnb-ffsGUs-1">
+          <mxGeometry x="130" y="320" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kqTv1T57_9Nnb-ffsGUs-6" value="Annotations" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="kqTv1T57_9Nnb-ffsGUs-1">
+          <mxGeometry x="240" y="320" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kqTv1T57_9Nnb-ffsGUs-13" value="External&lt;br&gt;Ontology 1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="kqTv1T57_9Nnb-ffsGUs-1">
+          <mxGeometry x="400" y="120" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kqTv1T57_9Nnb-ffsGUs-14" value="Users" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="kqTv1T57_9Nnb-ffsGUs-1">
+          <mxGeometry x="720" y="290" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kqTv1T57_9Nnb-ffsGUs-17" value="OWL Ontology" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kqTv1T57_9Nnb-ffsGUs-1">
+          <mxGeometry x="150" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RvR8E4f_2iXMYs8o86_F-0" value="External&lt;br&gt;Ontology 2" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="kqTv1T57_9Nnb-ffsGUs-1">
+          <mxGeometry x="520" y="120" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="H2fx7lUGSrjJXy6CxfNj-0" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="kqTv1T57_9Nnb-ffsGUs-1">
+          <mxGeometry x="650" y="130" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
