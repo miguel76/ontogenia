@@ -1,0 +1,3 @@
+{% include 'header.txt' %}
+{% include 'coverage.txt' %}
+{% include 'output.txt' %}

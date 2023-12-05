@@ -1,0 +1,2 @@
+Provide direclty the detailed OWL specification in RDF Turtle format and a SPARQL query corresponding to {% if cqs | length > 1 %}each{% else %}the{% endif %} competency question.
+

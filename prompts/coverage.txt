@@ -1,0 +1,4 @@
+The ontology must comply with the following competency question{% if cqs | length > 1 %}s{% endif %}:
+
+{% for cq in cqs %}{% if cqs | length > 1 %}CQ {{loop.index}}. {% endif %}{{cq}}
+{% endfor %}
